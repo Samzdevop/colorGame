@@ -1,0 +1,55 @@
+body {
+    background-color: #232323;
+}
+
+.square {
+    width: 30%;
+    background: purple;
+    padding-bottom: 30%;
+    float: left;
+    margin: 1.66%;
+    border-radius: 7px;
+
+}
+
+#container {
+    margin: 0 auto;
+    max-width: 200px;
+}  
+
+h3 {
+    color: #ffffff;
+    text-align: center;
+}
+
+#stripe {
+    background: white;
+    height: 20px;
+    text-align: center;
+    color: black;
+}
+
+#reset {
+    
+    font-size: 8px;
+    border: none;
+    
+}
+
+#message {
+    font-size: 8px;
+}
+
+#Hard {
+    font-size: 8px;
+    border: none;
+}
+
+#Easy {
+    font-size: 8px;
+    border: none;
+}
+
+.selected {
+    background-color: blue;
+}
